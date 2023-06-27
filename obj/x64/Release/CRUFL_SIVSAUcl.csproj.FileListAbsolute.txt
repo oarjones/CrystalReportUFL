@@ -1,0 +1,7 @@
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\bin\x64\Release\CRUFL_SIVSAUcl.dll
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\bin\x64\Release\CRUFL_SIVSAUcl.tlb
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\bin\x64\Release\CRUFL_SIVSAUcl.pdb
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\obj\x64\Release\CRUFL_SIVSAUcl.csproj.AssemblyReference.cache
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\obj\x64\Release\CRUFL_SIVSAUcl.csproj.CoreCompileInputs.cache
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\obj\x64\Release\CRUFL_SIVSAUcl.dll
+D:\Desarrollo\GFILESec\CRUFL_GFILESec\obj\x64\Release\CRUFL_SIVSAUcl.pdb
